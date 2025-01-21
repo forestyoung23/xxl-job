@@ -47,6 +47,11 @@ XXL-JOB 是一个开源且免费项目，其正在进行的开发完全得益于
 
 <!-- supporter start -->
 <h5 style="color: silver;" >金牌赞助方</h5>
+
+<a href="https://www.aliyun.com/product/aliware/mse?utm_content=g_10004013" title="jetbrains" target="_blank" >
+    <img width="100px" src="http://www.xuxueli.com/page/static/images/logo_aliyun2.png" >
+</a>
+
 <a href="https://www.jetbrains.com/idea/?from=xuxueli.com" title="jetbrains" target="_blank" >
     <img width="55px" src="http://www.xuxueli.com/page/static/images/logo_intellij.jpeg" >
 </a>
@@ -827,6 +832,7 @@ XXL-JOB 是一个开源且免费项目，其正在进行的开发完全得益于
     - 686、广州博依特智能信息科技有限公司
     - 687、河南宠呦呦信息技术有限公司
     - 688、陕西星邑空间技术有限公司
+    - 689、广东西欧克实业有限公司
     - ……
 
 > 更多接入的公司，欢迎在 [登记地址](https://github.com/xuxueli/xxl-job/issues/1 ) 登记，登记仅仅为了产品推广。
